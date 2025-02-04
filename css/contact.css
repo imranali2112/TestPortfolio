@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+}
+#inn-continer{
+    height: 100%;
+    margin: 0px;
+    display: flex;
+    justify-content: center;  
+    align-items: center; 
+}
+#inn-continer input, textarea{
+    height: 30px;
+    width: 600px;
+    border-radius: 5px;
+}
+textarea{
+    height: 80px;
+}
+button{
+    height: 33px;
+    width: 100px;
+    border-radius: 6px;
+    align-content: center;
+    margin-left: 505px;
+    margin-top: 10px;
+}
+
+button:hover{
+    color: green;
+}
